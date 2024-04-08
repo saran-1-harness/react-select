@@ -9,7 +9,7 @@ The Select control for [React](https://reactjs.org). Initially built for use in 
 
 See [react-select.com](https://www.react-select.com) for live demos and comprehensive docs edited 2.d
 
-`react-select` is funded by [Thinkmill](https://www.thinkmill.com.au) and [Atlassian](https://atlaskit.atlassian.com).
+`react-select` is funded by [Thinkmill](https://www.thinkmill.com.au) and [Atlassian](https://atlaskit.atlassian.com).we
 We are an open source project that is continously supported by the community.
 
 React Select helps you develop powerful select components that _just work_ out of the box, without stopping you from customising the parts that are important to you.
