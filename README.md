@@ -7,7 +7,7 @@
 
 The Select control for [React](https://reactjs.org). Initially built for use in [KeystoneJS](https://www.keystonejs.com).
 
-See [react-select.com](https://www.react-select.com) for live demos and comprehensive docs edited 2.d
+See [react-select.com](https://www.react-select.com) for live demos and comprehensive docs edited 2.d.sd
 
 `react-select` is funded by [Thinkmill](https://www.thinkmill.com.au) and [Atlassian](https://atlaskit.atlassian.com).we
 We are an open source project that is continously supported by the community.
