@@ -7,10 +7,10 @@
 
 The Select control for [React](https://reactjs.org). Initially built for use in [KeystoneJS](https://www.keystonejs.com).
 
-See [react-select.com](https://www.react-select.com) for live demos and comprehensive docs.
+See [react-select.com](https://www.react-select.com) for live demos and comprehensive docs edited 2.d.sd
 
-`react-select` is funded by [Thinkmill](https://www.thinkmill.com.au) and [Atlassian](https://atlaskit.atlassian.com).
-We are an open source project that is continously supported by the community.
+`react-select` is funded by [Thinkmill](https://www.thinkmill.com.au) and [Atlassian](https://atlaskit.atlassian.com).we
+We are an open source project that is continously supported by the community.asd
 
 React Select helps you develop powerful select components that _just work_ out of the box, without stopping you from customising the parts that are important to you.
 
@@ -19,7 +19,7 @@ For the story behind this component, watch Jed's talk at React Conf 2019 - [buil
 Features include:
 
 - Flexible approach to data, with customisable functions
-- Extensible styling API with [emotion](https://emotion.sh)
+- Extensible styling API with [emotion](https://emotion.sh)we
 - Component Injection API for complete control over the UI behaviour
 - Controllable state props and modular architecture
 - Long-requested features like option groups, portal support, animation, and more
